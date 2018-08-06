@@ -7,7 +7,8 @@ Ruby Version : 2.5.1
 
 Rails Version : 5.2.0
 
-Déploiement en local
+<h2>Utilisation en local</h2>
+
 git clone https://github.com/Careless-Whisper/private-club.git
 
 cd private-club
