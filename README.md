@@ -1,1 +1,1 @@
-https://my-secret-app.herokuapp.com/
+https://preevat-club.herokuapp.com/
