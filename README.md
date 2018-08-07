@@ -27,10 +27,11 @@ $ Go sur http://localhost:3000/
 
 ```
 
+```sh
+$ rails test
 
+```
 
-
-rails test
 
 Le lien Heroku  :
 
